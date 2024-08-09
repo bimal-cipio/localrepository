@@ -1,3 +1,4 @@
 this is text file in local repo
 
-this line is added using main branch
+# this is new feature added using feature1 branch
+main
